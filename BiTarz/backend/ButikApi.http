@@ -1,0 +1,6 @@
+@ButikApi_HostAddress = http://localhost:5015
+
+GET {{ButikApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
